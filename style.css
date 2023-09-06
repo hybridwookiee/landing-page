@@ -1,5 +1,5 @@
 html body {
-    min-width: 100vh;
+    min-width: 100%;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     margin: 0;
@@ -187,6 +187,7 @@ p {
 
 .footer {
     display: flex;
+    position: relative;
     justify-content: center;
     color: #e5e7eb;
     font-weight: bold;
