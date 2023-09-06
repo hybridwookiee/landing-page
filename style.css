@@ -1,5 +1,6 @@
 html body {
     min-width: 100%;
+    min-height: 100vh;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     margin: 0;
