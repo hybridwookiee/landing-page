@@ -50,6 +50,7 @@ a {
     padding: 50px 100px;
     align-items: center;
     gap: 10px;
+    justify-content: space-around;
 }
 
 .left-text {
